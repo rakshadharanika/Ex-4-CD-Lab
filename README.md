@@ -15,7 +15,7 @@ To write a YACC program to recognize a valid variable which starts with a letter
 # PROGRAM
 ### NAME   : V RAKSHA DHARANIKA
 ### REG NO :212223230167
-## LEX FILE
+## EXP4.L
 ```
 %{
 #include "y.tab.h"
@@ -33,7 +33,7 @@ int yywrap() {
 }
 
 ```
-## YACC FILE
+## EXP4.Y
 
 ```
 %{
