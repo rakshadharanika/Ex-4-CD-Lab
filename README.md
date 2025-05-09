@@ -77,7 +77,8 @@ void yyerror(const char *msg) {
 
 
 # Output
-![image](https://github.com/user-attachments/assets/121bdbb2-8a1b-48b4-a2be-1cddb42e38c3)
+![image](https://github.com/user-attachments/assets/9091ad44-f126-4d3c-98e1-bec26434162b)
+
 
 # Result
 A YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits is executed successfully and the output is verified.
